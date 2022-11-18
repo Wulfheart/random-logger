@@ -1,5 +1,7 @@
 # random-logger
 
+1
+
 Docker image for a random log generator, based on Alpine Linux.
 
 ![release](https://github.com/chentex/random-logger/workflows/release/badge.svg)
